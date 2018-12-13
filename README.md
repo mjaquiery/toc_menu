@@ -19,3 +19,7 @@ output:
       after_body: toc_menu.html
 ---
 ```
+
+Produces:
+
+A fixed navigation menu at the top of the output HTML page as shown [in the demo](https://mjaquiery.github.io/toc_menu/demo).
